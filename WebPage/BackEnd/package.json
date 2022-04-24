@@ -1,0 +1,21 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "ESP8266-WeatherStation",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/GreenLandTech1/ESP8266-WeatherStation.git"
+  },
+  "author": "Yassen ABARJI",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GreenLandTech1/ESP8266-WeatherStation/issues"
+  },
+  "homepage": "https://github.com/GreenLandTech1/ESP8266-WeatherStation#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
