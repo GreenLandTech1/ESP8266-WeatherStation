@@ -1,14 +1,13 @@
-<strong style="color: red; opacity: 1.50; font-size:200%">** Dashboard Meteo React with ESP8266.**</strong>
+# Dashboard Meteo React with ESP8266
 
-# ESP8266-WeatherStation
+## ESP8266-WeatherStation
 WeatherStation with ESP8266 Board
 
-<strong style="color: green; opacity: 0.50; font-size:150%">* Implement ESP8266 IoT Based Projects.
-code of project with 4-5 I/O (modules/sensors).*</strong>
+### Implement ESP8266 IoT Based Projects.
+Code of project with 4-5 I/O (modules/sensors).
 
-<strong style="color: blue; opacity: 0.80; font-size:125%"> *  Complete Description : *</strong>
-<strong style="color: blue; opacity: 0.80; font-size:125%"> * I would like IoT system to communicate by Wifi with database using REST APIs(GET, POST, PUT, DELETE) to record and consume data sensors (Temperature, pressure, altitude, light intensity & humidity).*</strong>
-
+Complete Description :
+I would like IoT system to communicate by Wifi with database using REST APIs(GET, POST, PUT, DELETE) to record and consume data sensors (Temperature, pressure, altitude, light intensity & humidity).
 
 #### Microcontrollers:
 ----------------
