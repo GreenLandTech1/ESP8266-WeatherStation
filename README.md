@@ -39,11 +39,17 @@ MySQL
 Here is your schematic code and PHP file. Create a database with name myDatabase and place the PHP file in server. Add your username and password of database in PHP file. In code, add your router SSID/PASSWORD and server IP where mentioned in starting lines, Make these changes, upload the code and let me know if you face any issue.
 
 ### Complete working code
-ggg
+
 ### Wiring Diagram
+
 ### Documentation
+
 ### Required Libraries
+
 ### Project Report
+
 ### Simulation
+
 ### Component research
+
 ### Technical Support
